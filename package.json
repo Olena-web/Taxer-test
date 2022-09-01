@@ -8,11 +8,15 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.11.56",
-    "@types/react": "^18.0.18",
-    "@types/react-dom": "^18.0.6",
+    "@yelysei/react-files-drag-and-drop": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-drag-drop-files": "^2.3.7",
+    "react-dropzone": "^14.2.2",
+    "react-hook-form": "^7.34.2",
     "react-scripts": "5.0.1",
+    "sass": "^1.54.8",
+    "sass-loader": "^13.0.2",
     "typescript": "^4.8.2",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.18",
+    "@types/react-dom": "^18.0.6"
   }
 }
